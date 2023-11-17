@@ -14,7 +14,7 @@
 #define uint32_t	unsigned long
 #define uint64_t	unsigned long long int
 
-
+uint16_t	data2 = 0;
 uint8_t	data = 108;
 #define	OPO 0
 
