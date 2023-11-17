@@ -8,7 +8,7 @@
 #include <unistd.h>
 
 
-#define u8			unsigned char 
+#define u8          unsigned char 
 #define uint8_t		unsigned char 
 #define uint16_t	unsigned int 
 #define uint32_t	unsigned long
