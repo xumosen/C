@@ -8,15 +8,13 @@
 #include <unistd.h>
 
 
-
-
 #define u8			unsigned char 
 #define uint8_t		unsigned char 
 #define uint16_t	unsigned int 
 #define uint32_t	unsigned long
 #define uint64_t	unsigned long long int
 
-uint8_t	data = 11;
+uint8_t	data = 101;
 
 #define	OPO 1
 
