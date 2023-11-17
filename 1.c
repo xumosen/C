@@ -15,7 +15,7 @@
 #define uint64_t	unsigned long long int
 
 
-uint8_t	data = 100;
+uint8_t	data = 108;
 #define	OPO 0
 
 // 递归 
